@@ -1,0 +1,13 @@
+C:\Users\asdf\source\repos\RandomNess\RandomNess\bin\Debug\netcoreapp3.1\RandomNess.exe
+C:\Users\asdf\source\repos\RandomNess\RandomNess\bin\Debug\netcoreapp3.1\RandomNess.deps.json
+C:\Users\asdf\source\repos\RandomNess\RandomNess\bin\Debug\netcoreapp3.1\RandomNess.runtimeconfig.json
+C:\Users\asdf\source\repos\RandomNess\RandomNess\bin\Debug\netcoreapp3.1\RandomNess.runtimeconfig.dev.json
+C:\Users\asdf\source\repos\RandomNess\RandomNess\bin\Debug\netcoreapp3.1\RandomNess.dll
+C:\Users\asdf\source\repos\RandomNess\RandomNess\bin\Debug\netcoreapp3.1\RandomNess.pdb
+C:\Users\asdf\source\repos\RandomNess\RandomNess\obj\Debug\netcoreapp3.1\RandomNess.csprojAssemblyReference.cache
+C:\Users\asdf\source\repos\RandomNess\RandomNess\obj\Debug\netcoreapp3.1\RandomNess.AssemblyInfoInputs.cache
+C:\Users\asdf\source\repos\RandomNess\RandomNess\obj\Debug\netcoreapp3.1\RandomNess.AssemblyInfo.cs
+C:\Users\asdf\source\repos\RandomNess\RandomNess\obj\Debug\netcoreapp3.1\RandomNess.csproj.CoreCompileInputs.cache
+C:\Users\asdf\source\repos\RandomNess\RandomNess\obj\Debug\netcoreapp3.1\RandomNess.dll
+C:\Users\asdf\source\repos\RandomNess\RandomNess\obj\Debug\netcoreapp3.1\RandomNess.pdb
+C:\Users\asdf\source\repos\RandomNess\RandomNess\obj\Debug\netcoreapp3.1\RandomNess.genruntimeconfig.cache
